@@ -1,6 +1,4 @@
 import csv
-lol
-
 
 def read_tsv(filename):
     """Function that reads a tsv file
